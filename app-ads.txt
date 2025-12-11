@@ -1,3 +1,5 @@
+#meta
+facebook.com, 731449893315740, DIRECT, c3e20eee3f780d68
 google.com, pub-9451428632397484, DIRECT, f08c47fec0942fa0
 (update 3/9/2025)
 nexverse.ai, 71408, DIRECT
