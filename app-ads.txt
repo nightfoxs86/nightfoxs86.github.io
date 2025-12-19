@@ -1,3 +1,4 @@
+facebook.com, 731449893315740, DIRECT, c3e20eee3f780d68
 vungle.com, 617ba86500c0540018bc1728, DIRECT, c107d686becd2d77
 #meta
 facebook.com, 731449893315740, DIRECT, c3e20eee3f780d68
